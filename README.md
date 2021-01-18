@@ -11,7 +11,9 @@ For the top 10 more “social” users (with more friends)
 - Draw the path (with map) of a week/month of users checkins.
 - List your friends and how close they are in terms of “taste” (based on venues visited and ranked)
 
-# Response
+# Solution
+
+Analysis are presented on [Jupyter Notebook](ML-Engineer-Notebook.ipynb)
 
 1. Data munging. Observed there are dirty data which require clean up:
 - socialgraph table contains user_id not in users table -> removed.
@@ -26,4 +28,5 @@ For the top 10 more “social” users (with more friends)
 - For each venues what is global (universal) rating from all users?
 - Find top 10 users with more checkins and top 10 users with more friends to answer Challenge
 
-3. Answers
+3. Answer
+- Answer for each of question points
