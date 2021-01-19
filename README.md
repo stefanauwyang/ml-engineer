@@ -52,3 +52,5 @@ These are high level Notebook structure:
     5.2. Problem: List your friends and how close they are in terms of "taste" (based on venues visited and ranked).
 
 [Link to Notebook](ML-Engineer-Notebook.ipynb)
+
+[Link to provided sqlite db](https://mltestpublicdata.s3-ap-southeast-1.amazonaws.com/fsdata.db.zip)
