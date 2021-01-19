@@ -51,6 +51,9 @@ These are high level Notebook structure:
 
     5.2. Problem: List your friends and how close they are in terms of "taste" (based on venues visited and ranked).
 
+This notebook is quiet big, if page not able to load on GitHub, please keep refreshing, it will eventually showing.
+Other option is to download this notebook and open with locally running Jupyter Notebook.
+
 [Link to Notebook](ML-Engineer-Notebook.ipynb)
 
 [Link to provided sqlite db](https://mltestpublicdata.s3-ap-southeast-1.amazonaws.com/fsdata.db.zip)
