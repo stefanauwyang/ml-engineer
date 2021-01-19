@@ -56,6 +56,8 @@ Other option is to download this notebook and open with locally running Jupyter 
 
 [Link to Notebook](ML-Engineer-Notebook.ipynb) <- If the page not showing, please try Reload few times, eventually it will show.
 
+[Link to Notebook on Kaggle](https://www.kaggle.com/stefanauwyang/ml-engineer-challenge) <- Uploaded to Kaggle in case not able to see on GitHub. On Kaggle, the database is read only, so the SQL Delete Statements are not included here.
+
 [Link to Printed Version](ML-Engineer-Notebook-Print-Version.pdf) <- If still not showing, please refer to this printed version.
 
 [Link to provided sqlite db](https://mltestpublicdata.s3-ap-southeast-1.amazonaws.com/fsdata.db.zip)
