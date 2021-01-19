@@ -54,8 +54,8 @@ These are high level Notebook structure:
 This notebook is quiet big, if page not able to load on GitHub, please keep refreshing, it will eventually showing.
 Other option is to download this notebook and open with locally running Jupyter Notebook.
 
-[Link to Notebook](ML-Engineer-Notebook.ipynb) <- If the page not showing, please click Reload few times, eventually it will show.
+[Link to Notebook](ML-Engineer-Notebook.ipynb) <- If the page not showing, please try Reload few times, eventually it will show.
 
-[Link to Printed Version](ML-Engineer-Notebook-Printed-Version.pdf) <- If still not showing, please refer to this printed version.
+[Link to Printed Version](ML-Engineer-Notebook-Print-Version.pdf) <- If still not showing, please refer to this printed version.
 
 [Link to provided sqlite db](https://mltestpublicdata.s3-ap-southeast-1.amazonaws.com/fsdata.db.zip)
